@@ -1,4 +1,14 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY apos   CDATA "&#x2019;"  --      18 -->
+    <!ENTITY ldquo  CDATA "&#x201C;"  --     604 -->
+    <!ENTITY lsquo  CDATA "&#x2018;"  --       1 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --      21 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       1 -->
+    <!ENTITY rdquo  CDATA "&#x201D;"  --     600 -->
+    <!ENTITY rsquo  CDATA "&#x2019;"  --       1 -->
+
+]>
 <TEI.2 lang=nl-1900>
 <teiHeader>
 <fileDesc>
@@ -37,13 +47,16 @@
 
 <p>Hoewel in dit werk laag liggende aanhalingstekens openen worden gebruikt, zijn deze gecodeerd met &ldquo;.
 
+<p>Vertaling van <hi lang=fr>Le village aérien</hi>.
+
 </encodingDesc>
 <profileDesc>
-<langUsage lang=nl>
-    <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
-    <language id=nl>Nederlands</language>
-    <language id=en>Engels</language>
-</langUsage>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+        <language id=fr>Frans</language>
+    </langUsage>
 </profileDesc>
 <revisionDesc>
 <list>
@@ -52,7 +65,7 @@
 </list>
 </revisionDesc>
 </teiHeader>
-<text>
+<text rend="stylesheet(style/classic.css)">
 <front id=frontmatter>
 <div1 id=cover type=Cover>
 
@@ -1614,7 +1627,7 @@
 
 <p>Tusschen de nog hooger oprijzende boomen stonden in zekere regelmaat hutten van stroo, zoodat men meenen kon in een straat te zijn en de geheele oppervlakte van dit dorp in de lucht was zóó groot, dat onze reizigers de grens er van niet konden zien.
 
-<p>En daar liepen heen en weer een troep wezens, gelijkende op den beschermeling van Llanga. Hunne houding, overeen komende met die van den mensen, wees aan, dat zij gewend waren recht op te loopen en dus aanspraak mochten maken op den bijnaam <hi rend=ex>erectus</hi>, dien dr. Eugène du Bois, de Nederlandsche officier van gezondheid, gegeven heeft aan de groote, uitgestorven aapsoorten, waarvan hij op Java overblijfselen heeft gevonden.
+<p>En daar liepen heen en weer een troep wezens, gelijkende op den beschermeling van Llanga. Hunne houding, overeen komende met die van den mensch, wees aan, dat zij gewend waren recht op te loopen en dus aanspraak mochten maken op den bijnaam <hi rend=ex>erectus</hi>, dien dr. Eugène du Bois, de Nederlandsche officier van gezondheid, gegeven heeft aan de groote, uitgestorven aapsoorten, waarvan hij op Java overblijfselen heeft gevonden.
 
 <p>Maar Max Huber en John Cort hadden geen tijd, om bespiegelingen te maken. Of het dieren waren, of menschen, of wel schepsels tusschen den mensch en het dier in staande, moesten zij later uitmaken, thans werden zij door den troep, die onderling in een bepaalde taal sprak, in een hut gedrongen; de deur ging achter hen dicht en zoo waren zij goed en wel gevangen!
 
@@ -2274,25 +2287,25 @@
 
 <!-- hoofdst. blz. -->
 
-<list>
-    <item><ab type=itemNum>1.</ab> <ref target=ch1>Na een langen marsch</ref> 1.
-    <item><ab type=itemNum>2.</ab> <ref target=ch2>De bewegende vuren</ref> 8.
-    <item><ab type=itemNum>3.</ab> <ref target=ch3>Verstrooid</ref> 19.
-    <item><ab type=itemNum>4.</ab> <ref target=ch4>Geen keuze</ref> 28.
-    <item><ab type=itemNum>5.</ab> <ref target=ch5>De eerste dagen in het woud</ref> 36.
-    <item><ab type=itemNum>6.</ab> <ref target=ch6>Altijd naar het Zuidwesten</ref> 43.
-    <item><ab type=itemNum>7.</ab> <ref target=ch7>De ledige kooi</ref> 50.
-    <item><ab type=itemNum>8.</ab> <ref target=ch8>Dokter Johausen</ref> 59.
-    <item><ab type=itemNum>9.</ab> <ref target=ch9>Op de Johausen-rivier</ref> 71.
-    <item><ab type=itemNum>10.</ab> <ref target=ch10>Ngora</ref> 79.
-    <item><ab type=itemNum>11.</ab> <ref target=ch11>De reis van den 19den Maart</ref> 84.
-    <item><ab type=itemNum>12.</ab> <ref target=ch12>Na de schipbreuk</ref> 91.
-    <item><ab type=itemNum>13.</ab> <ref target=ch13>Een dorp in de lucht</ref> 96.
-    <item><ab type=itemNum>14.</ab> <ref target=ch14>De wagdies</ref> 108.
-    <item><ab type=itemNum>15.</ab> <ref target=ch15>Drie weken studie</ref> 116.
-    <item><ab type=itemNum>16.</ab> <ref target=ch16>Zijne Majesteit Koning Mselo-Tala-Tala</ref> 127.
-    <item><ab type=itemNum>17.</ab> <ref target=ch17>Koning Johausen</ref> 140.
-    <item><ab type=itemNum>18.</ab> <ref target=ch18>Onverwachte ontknooping</ref> 151.
+<list type=tocList>
+    <item><ab type=tocDivNum>1.</ab> <ref target=ch1>Na een langen marsch</ref> <ab type=tocPageNum>1.</ab>
+    <item><ab type=tocDivNum>2.</ab> <ref target=ch2>De bewegende vuren</ref> <ab type=tocPageNum>8.</ab>
+    <item><ab type=tocDivNum>3.</ab> <ref target=ch3>Verstrooid</ref> <ab type=tocPageNum>19.</ab>
+    <item><ab type=tocDivNum>4.</ab> <ref target=ch4>Geen keuze</ref> <ab type=tocPageNum>28.</ab>
+    <item><ab type=tocDivNum>5.</ab> <ref target=ch5>De eerste dagen in het woud</ref> <ab type=tocPageNum>36.</ab>
+    <item><ab type=tocDivNum>6.</ab> <ref target=ch6>Altijd naar het Zuidwesten</ref> <ab type=tocPageNum>43.</ab>
+    <item><ab type=tocDivNum>7.</ab> <ref target=ch7>De ledige kooi</ref> <ab type=tocPageNum>50.</ab>
+    <item><ab type=tocDivNum>8.</ab> <ref target=ch8>Dokter Johausen</ref> <ab type=tocPageNum>59.</ab>
+    <item><ab type=tocDivNum>9.</ab> <ref target=ch9>Op de Johausen-rivier</ref> <ab type=tocPageNum>71.</ab>
+    <item><ab type=tocDivNum>10.</ab> <ref target=ch10>Ngora</ref> <ab type=tocPageNum>79.</ab>
+    <item><ab type=tocDivNum>11.</ab> <ref target=ch11>De reis van den 19den Maart</ref> <ab type=tocPageNum>84.</ab>
+    <item><ab type=tocDivNum>12.</ab> <ref target=ch12>Na de schipbreuk</ref> <ab type=tocPageNum>91.</ab>
+    <item><ab type=tocDivNum>13.</ab> <ref target=ch13>Een dorp in de lucht</ref> <ab type=tocPageNum>96.</ab>
+    <item><ab type=tocDivNum>14.</ab> <ref target=ch14>De wagdies</ref> <ab type=tocPageNum>108.</ab>
+    <item><ab type=tocDivNum>15.</ab> <ref target=ch15>Drie weken studie</ref> <ab type=tocPageNum>116.</ab>
+    <item><ab type=tocDivNum>16.</ab> <ref target=ch16>Zijne Majesteit Koning Mselo-Tala-Tala</ref> <ab type=tocPageNum>127.</ab>
+    <item><ab type=tocDivNum>17.</ab> <ref target=ch17>Koning Johausen</ref> <ab type=tocPageNum>140.</ab>
+    <item><ab type=tocDivNum>18.</ab> <ref target=ch18>Onverwachte ontknooping</ref> <ab type=tocPageNum>151.</ab>
 </list>
 
 
@@ -2305,40 +2318,40 @@
 
 <!-- Blz. -->
 
-<list>
-    <item><ref target=p000>&ldquo;Max Huber en Llanga&rdquo;</ref> (<hi>Titelplaat</hi>)
-    <item><ref target=p005>&ldquo;Het drietal zette den tocht voort&rdquo;</ref> 5.
-    <item><ref target=p009>&ldquo;De lichten schenen thans wel vijftig en honderd voet boven den beganen grond&rdquo;</ref> 9.
-    <item><ref target=p013>&ldquo;Toen kon hij de anderen behulpzaam zijn om tegen den stam op te klimmen&rdquo;</ref> 13.
-    <item><ref target=p021>&ldquo;Daar weerklonk een schot&rdquo;</ref> 21.
-    <item><ref target=p025>&ldquo;Het was een Inyala, een soort antilope&rdquo;</ref> 25.
-    <item><ref target=p029>&ldquo;Had John Cort geen oogen genoeg om de prachtige plantenwereld te bewonderen&rdquo;</ref> 29.
-    <item><ref target=p037>&ldquo;Toen hij eensklaps een hand op zijn schouder voelde&rdquo;</ref> 37.
-    <item><ref target=p041>&ldquo;Max Huber legde dadelijk zijn karabijn aan&rdquo;</ref> 41.
-    <item><ref target=p045>&ldquo;En riep luidkeels: de Rio! de Rio!&rdquo;</ref> 45.
-    <item><ref target=p053>&ldquo;Na een poos ontdekten zij het tweetal, aan den linkeroever&rdquo;</ref> 53.
-    <item><ref target=p057>&ldquo;En in die tralies was een deurtje&rdquo;</ref> 57.
-    <item><ref target=p061>&ldquo;Daar de dokter zich verbeeldde, dat de apen niet ongevoelig zouden zijn voor de schoonheden der muziek&rdquo;</ref> 61.
-    <item><ref target=p065>&ldquo;Er was nu een ijzeren pot, men kon dus een soort soep koken&rdquo;</ref> 65.
-    <item><ref target=p069>&ldquo;Het duurde niet lang of een gulzige snoek beet aan en werd aan boord gehaald&rdquo;</ref> 69.
-    <item><ref target=p073>&ldquo;Op de takken der boomen wemelde het van apen&rdquo;</ref> 73.
-    <item><ref target=p077>&ldquo;Eenige oogenblikken verkeerden de reizigers in grooten angst&rdquo;</ref> 77.
-    <item><ref target=p085>&ldquo;En staken hem hunne hand toe&rdquo;</ref> 85.
-    <pb n=158><item><ref target=p097>&ldquo;De buffel scheen niet van plan om heen te gaan&rdquo;</ref> 97.
-    <item><ref target=p101>&ldquo;Zij werden meegesleurd in de kolk&rdquo;</ref> 101.
-    <item><ref target=p105>&ldquo;Hij poogde tusschen het bladerengewelf door, een <corr sic=srukje>stukje</corr> van den hemel te ontdekken&rdquo;</ref> 105.
-    <item><ref target=p109>&ldquo;Er bleef niets anders over dan voort te loopen&rdquo;</ref> 109.
-    <item><ref target=p113>&ldquo;Stond hij uit te kijken, of hij het licht nog niet zag verschijnen&rdquo;</ref> 113.
-    <item><ref target=p117>&ldquo;Stonden in zekere regelmaat hutten van stroo&rdquo;</ref> 117.
-    <item><ref target=p121>&ldquo;Vooraf gegaan door Li-Mai die Llanga bij de hand hield&rdquo;</ref> 121.
-    <item><ref target=p125>&ldquo;Toen de beide schildwachten hem dreigend den weg versperden&rdquo;</ref> 125.
-    <item><ref target=p129>&ldquo;Schoten zij de vogels met kleine pijltjes&rdquo;</ref> 129.
-    <item><ref target=p133>&ldquo;Met bijlen gewapend, storten zij zich tusschen de troep&rdquo;</ref> 133.
-    <item><ref target=p137>&ldquo;Het viel dadelijk op, dat zij zich bizonder hadden opgetooid&rdquo;</ref> 137.
-    <item><ref target=p141>&ldquo;Ging achter het orgel staan en begon te draaien&rdquo;</ref> 141.
-    <item><ref target=p145>&ldquo;En schudde den koning tamelijk oneerbiedig heen en weer&rdquo;</ref> 145.
-    <item><ref target=p149>&ldquo;Twee schoten weerklonken&rdquo;</ref> 149.
-    <item><ref target=p153>&ldquo;En wederzijds wuifde men elkander tot afscheid toe&rdquo;</ref> 153.
+<list type=tocList>
+    <item><ref target=p000>&ldquo;Max Huber en Llanga&rdquo;</ref> <ab type=tocPageNum>(<hi>Titelplaat</hi>)</ab>
+    <item><ref target=p005>&ldquo;Het drietal zette den tocht voort&rdquo;</ref> <ab type=tocPageNum>5.</ab>
+    <item><ref target=p009>&ldquo;De lichten schenen thans wel vijftig en honderd voet boven den beganen grond&rdquo;</ref> <ab type=tocPageNum>9.</ab>
+    <item><ref target=p013>&ldquo;Toen kon hij de anderen behulpzaam zijn om tegen den stam op te klimmen&rdquo;</ref> <ab type=tocPageNum>13.</ab>
+    <item><ref target=p021>&ldquo;Daar weerklonk een schot&rdquo;</ref> <ab type=tocPageNum>21.</ab>
+    <item><ref target=p025>&ldquo;Het was een Inyala, een soort antilope&rdquo;</ref> <ab type=tocPageNum>25.</ab>
+    <item><ref target=p029>&ldquo;Had John Cort geen oogen genoeg om de prachtige plantenwereld te bewonderen&rdquo;</ref> <ab type=tocPageNum>29.</ab>
+    <item><ref target=p037>&ldquo;Toen hij eensklaps een hand op zijn schouder voelde&rdquo;</ref> <ab type=tocPageNum>37.</ab>
+    <item><ref target=p041>&ldquo;Max Huber legde dadelijk zijn karabijn aan&rdquo;</ref> <ab type=tocPageNum>41.</ab>
+    <item><ref target=p045>&ldquo;En riep luidkeels: de Rio! de Rio!&rdquo;</ref> <ab type=tocPageNum>45.</ab>
+    <item><ref target=p053>&ldquo;Na een poos ontdekten zij het tweetal, aan den linkeroever&rdquo;</ref> <ab type=tocPageNum>53.</ab>
+    <item><ref target=p057>&ldquo;En in die tralies was een deurtje&rdquo;</ref> <ab type=tocPageNum>57.</ab>
+    <item><ref target=p061>&ldquo;Daar de dokter zich verbeeldde, dat de apen niet ongevoelig zouden zijn voor de schoonheden der muziek&rdquo;</ref> <ab type=tocPageNum>61.</ab>
+    <item><ref target=p065>&ldquo;Er was nu een ijzeren pot, men kon dus een soort soep koken&rdquo;</ref> <ab type=tocPageNum>65.</ab>
+    <item><ref target=p069>&ldquo;Het duurde niet lang of een gulzige snoek beet aan en werd aan boord gehaald&rdquo;</ref> <ab type=tocPageNum>69.</ab>
+    <item><ref target=p073>&ldquo;Op de takken der boomen wemelde het van apen&rdquo;</ref> <ab type=tocPageNum>73.</ab>
+    <item><ref target=p077>&ldquo;Eenige oogenblikken verkeerden de reizigers in grooten angst&rdquo;</ref> <ab type=tocPageNum>77.</ab>
+    <item><ref target=p085>&ldquo;En staken hem hunne hand toe&rdquo;</ref> <ab type=tocPageNum>85.</ab>
+    <pb n=158><item><ref target=p097>&ldquo;De buffel scheen niet van plan om heen te gaan&rdquo;</ref> <ab type=tocPageNum>97.</ab>
+    <item><ref target=p101>&ldquo;Zij werden meegesleurd in de kolk&rdquo;</ref> <ab type=tocPageNum>101.</ab>
+    <item><ref target=p105>&ldquo;Hij poogde tusschen het bladerengewelf door, een <corr sic=srukje>stukje</corr> van den hemel te ontdekken&rdquo;</ref> <ab type=tocPageNum>105.</ab>
+    <item><ref target=p109>&ldquo;Er bleef niets anders over dan voort te loopen&rdquo;</ref> <ab type=tocPageNum>109.</ab>
+    <item><ref target=p113>&ldquo;Stond hij uit te kijken, of hij het licht nog niet zag verschijnen&rdquo;</ref> <ab type=tocPageNum>113.</ab>
+    <item><ref target=p117>&ldquo;Stonden in zekere regelmaat hutten van stroo&rdquo;</ref> <ab type=tocPageNum>117.</ab>
+    <item><ref target=p121>&ldquo;Vooraf gegaan door Li-Mai die Llanga bij de hand hield&rdquo;</ref> <ab type=tocPageNum>121.</ab>
+    <item><ref target=p125>&ldquo;Toen de beide schildwachten hem dreigend den weg versperden&rdquo;</ref> <ab type=tocPageNum>125.</ab>
+    <item><ref target=p129>&ldquo;Schoten zij de vogels met kleine pijltjes&rdquo;</ref> <ab type=tocPageNum>129.</ab>
+    <item><ref target=p133>&ldquo;Met bijlen gewapend, storten zij zich tusschen de troep&rdquo;</ref> <ab type=tocPageNum>133.</ab>
+    <item><ref target=p137>&ldquo;Het viel dadelijk op, dat zij zich bizonder hadden opgetooid&rdquo;</ref> <ab type=tocPageNum>137.</ab>
+    <item><ref target=p141>&ldquo;Ging achter het orgel staan en begon te draaien&rdquo;</ref> <ab type=tocPageNum>141.</ab>
+    <item><ref target=p145>&ldquo;En schudde den koning tamelijk oneerbiedig heen en weer&rdquo;</ref> <ab type=tocPageNum>145.</ab>
+    <item><ref target=p149>&ldquo;Twee schoten weerklonken&rdquo;</ref> <ab type=tocPageNum>149.</ab>
+    <item><ref target=p153>&ldquo;En wederzijds wuifde men elkander tot afscheid toe&rdquo;</ref> <ab type=tocPageNum>153.</ab>
 </list>
 
 

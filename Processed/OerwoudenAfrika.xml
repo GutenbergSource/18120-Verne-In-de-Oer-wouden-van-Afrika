@@ -1,11 +1,12 @@
-<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>In de Oer-wouden van Afrika</title><author key="Verne, Jules" ref="https://viaf.org/viaf/76323989/">Jules Verne (1828&#8211;1905)</author><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name>Distributed Proofreaders Team</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="epub-id">urn:uuid:84fada4a-ab73-4119-b9d5-b737abb1e3f0</idno><idno type="PGclearance">20050625091508verne</idno><idno type="PGDPProjectId">projectID42eba3b99061d</idno><idno type="PGSrc">18120-Verne-In-de-Oer-wouden-van-Afrika</idno><idno type="PGnum">18120</idno><date lang="en" xml:lang="en">2006-04-05</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg Licentie</xref> bij dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
-</p><p lang="en" xml:lang="en">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg License</xref> included with this eBook or online at <xref url='https://www.gutenberg.org/' rel='home'>www.gutenberg.org</xref>.
+<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader><fileDesc><titleStmt><title>In de Oer-wouden van Afrika</title><author key="Verne, Jules" ref="https://viaf.org/viaf/76323989/">Jules Verne (1828&#8211;1905)</author><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name>Distributed Proofreaders Team</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="epub-id">urn:uuid:84fada4a-ab73-4119-b9d5-b737abb1e3f0</idno><idno type="PGclearance">20050625091508verne</idno><idno type="PGDPProjectId">projectID42eba3b99061d</idno><idno type="PGSrc">18120-Verne-In-de-Oer-wouden-van-Afrika</idno><idno type="PGnum">18120</idno><date lang="en" xml:lang="en">2006-04-05</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+</p><p lang="en" xml:lang="en">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
 </p></availability></publicationStmt><sourceDesc><bibl><author>Jules Verne</author>
 <title>In de Oer-wouden van Afrika</title>
 <date>[1902]</date></bibl></sourceDesc></fileDesc><encodingDesc lang="nl" xml:lang="nl"><p>Dit bestand is in de oude spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn hersteld.
 </p><p>Hoewel in dit werk laag liggende aanhalingstekens openen worden gebruikt, zijn deze gecodeerd met &#8220;.
-</p></encodingDesc><profileDesc><langUsage lang="nl" xml:lang="nl"><language id="nl-1900">Nederlands (Spelling De Vries-Te Winkel)</language><language id="nl">Nederlands</language><language id="en">Engels</language></langUsage></profileDesc><revisionDesc><list><item>2006-04-03 Begonnen.
-    </item><item>2010-07-04 Aanpassingen tbv ePub generatie.</item></list></revisionDesc></teiHeader><text><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/cover.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+</p><p>Vertaling van <hi lang="fr" xml:lang="fr">Le village a&#233;rien</hi>.
+</p></encodingDesc><profileDesc><langUsage lang="nl" xml:lang="nl"><language id="nl-1900">Nederlands (Spelling De Vries-Te Winkel)</language><language id="nl">Nederlands</language><language id="en">Engels</language><language id="fr">Frans</language></langUsage></profileDesc><revisionDesc><list><item>2006-04-03 Begonnen.
+    </item><item>2010-07-04 Aanpassingen tbv ePub generatie.</item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/cover.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
 
 <pb/></p></div1><div1 id="frontis" type="Frontispiece"><p><figure id="p000"><head>Max Huber en Llanga.</head></figure>
 <pb/></p></div1><titlePage><docTitle><titlePart type="main">In de Oer-wouden van Afrika.</titlePart></docTitle><byline>Door
@@ -760,7 +761,7 @@ Amsterdam.</docImprint></titlePage><pb n="1"/></front><body><div1 id="ch1" n="I"
 
 </p><p>Want toen zij ten laatste ongeveer honderd voet geklommen waren, zagen zij tot hun verbazing hier, als het ware op de toppen der boomen, een plat, heerlijk door de zon verlicht.
 </p><p>Tusschen de nog hooger oprijzende boomen stonden in zekere regelmaat hutten van stroo, zoodat men meenen kon in een straat te zijn en de geheele oppervlakte van dit dorp in de lucht was z&#243;&#243; groot, dat onze reizigers de grens er van niet konden zien.
-</p><p>En daar liepen heen en weer een troep wezens, gelijkende op den beschermeling van Llanga. Hunne houding, overeen komende met die van den mensen, wees aan, dat zij gewend waren recht op te loopen en dus aanspraak mochten maken op den bijnaam <hi rend="ex">erectus</hi>, dien dr. Eug&#232;ne du Bois, de Nederlandsche officier van gezondheid, gegeven heeft aan de groote, uitgestorven aapsoorten, waarvan hij op Java overblijfselen heeft gevonden.
+</p><p>En daar liepen heen en weer een troep wezens, gelijkende op den beschermeling van Llanga. Hunne houding, overeen komende met die van den mensch, wees aan, dat zij gewend waren recht op te loopen en dus aanspraak mochten maken op den bijnaam <hi rend="ex">erectus</hi>, dien dr. Eug&#232;ne du Bois, de Nederlandsche officier van gezondheid, gegeven heeft aan de groote, uitgestorven aapsoorten, waarvan hij op Java overblijfselen heeft gevonden.
 </p><p>Maar Max Huber en John Cort hadden geen tijd, om bespiegelingen te maken. Of het dieren waren, of menschen, of wel schepsels tusschen den mensch en het dier in staande, moesten zij later uitmaken, thans werden zij door den troep, die onderling in een bepaalde taal sprak, in een hut gedrongen; de deur ging achter hen dicht en zoo waren zij goed en wel gevangen!
 </p><p>&#8220;Mooi!&#8221; riep Max Huber, &#8220;daar zitten wij, als die luidjes nu ook maar de gewoonte hebben hunnen gevangenen eten te geven.&#8221;
 </p><p>&#8220;Misschien eten zij liever hunne gevangenen op&#8221;, antwoordde John Cort droogjes.
@@ -1079,53 +1080,53 @@ Amsterdam.</docImprint></titlePage><pb n="1"/></front><body><div1 id="ch1" n="I"
 
 </p><p><figure id="p155"><figDesc>Kano op rivier in oerwoud.</figDesc></figure>
 
-<pb n="157"/></p></div1></body><back id="backmattter"><div1 id="toc" type="Contents"><head>Inhoud</head><list><item><ab type="itemNum">1.</ab> <ref target="ch1">Na een langen marsch</ref> 1.
-    </item><item><ab type="itemNum">2.</ab> <ref target="ch2">De bewegende vuren</ref> 8.
-    </item><item><ab type="itemNum">3.</ab> <ref target="ch3">Verstrooid</ref> 19.
-    </item><item><ab type="itemNum">4.</ab> <ref target="ch4">Geen keuze</ref> 28.
-    </item><item><ab type="itemNum">5.</ab> <ref target="ch5">De eerste dagen in het woud</ref> 36.
-    </item><item><ab type="itemNum">6.</ab> <ref target="ch6">Altijd naar het Zuidwesten</ref> 43.
-    </item><item><ab type="itemNum">7.</ab> <ref target="ch7">De ledige kooi</ref> 50.
-    </item><item><ab type="itemNum">8.</ab> <ref target="ch8">Dokter Johausen</ref> 59.
-    </item><item><ab type="itemNum">9.</ab> <ref target="ch9">Op de Johausen-rivier</ref> 71.
-    </item><item><ab type="itemNum">10.</ab> <ref target="ch10">Ngora</ref> 79.
-    </item><item><ab type="itemNum">11.</ab> <ref target="ch11">De reis van den 19den Maart</ref> 84.
-    </item><item><ab type="itemNum">12.</ab> <ref target="ch12">Na de schipbreuk</ref> 91.
-    </item><item><ab type="itemNum">13.</ab> <ref target="ch13">Een dorp in de lucht</ref> 96.
-    </item><item><ab type="itemNum">14.</ab> <ref target="ch14">De wagdies</ref> 108.
-    </item><item><ab type="itemNum">15.</ab> <ref target="ch15">Drie weken studie</ref> 116.
-    </item><item><ab type="itemNum">16.</ab> <ref target="ch16">Zijne Majesteit Koning Mselo-Tala-Tala</ref> 127.
-    </item><item><ab type="itemNum">17.</ab> <ref target="ch17">Koning Johausen</ref> 140.
-    </item><item><ab type="itemNum">18.</ab> <ref target="ch18">Onverwachte ontknooping</ref> 151.</item></list><pb n="157"/></div1><div1 id="loi" type="Contents"><head>Lijst der Platen.</head><list><item><ref target="p000">&#8220;Max Huber en Llanga&#8221;</ref> (<hi>Titelplaat</hi>)
-    </item><item><ref target="p005">&#8220;Het drietal zette den tocht voort&#8221;</ref> 5.
-    </item><item><ref target="p009">&#8220;De lichten schenen thans wel vijftig en honderd voet boven den beganen grond&#8221;</ref> 9.
-    </item><item><ref target="p013">&#8220;Toen kon hij de anderen behulpzaam zijn om tegen den stam op te klimmen&#8221;</ref> 13.
-    </item><item><ref target="p021">&#8220;Daar weerklonk een schot&#8221;</ref> 21.
-    </item><item><ref target="p025">&#8220;Het was een Inyala, een soort antilope&#8221;</ref> 25.
-    </item><item><ref target="p029">&#8220;Had John Cort geen oogen genoeg om de prachtige plantenwereld te bewonderen&#8221;</ref> 29.
-    </item><item><ref target="p037">&#8220;Toen hij eensklaps een hand op zijn schouder voelde&#8221;</ref> 37.
-    </item><item><ref target="p041">&#8220;Max Huber legde dadelijk zijn karabijn aan&#8221;</ref> 41.
-    </item><item><ref target="p045">&#8220;En riep luidkeels: de Rio! de Rio!&#8221;</ref> 45.
-    </item><item><ref target="p053">&#8220;Na een poos ontdekten zij het tweetal, aan den linkeroever&#8221;</ref> 53.
-    </item><item><ref target="p057">&#8220;En in die tralies was een deurtje&#8221;</ref> 57.
-    </item><item><ref target="p061">&#8220;Daar de dokter zich verbeeldde, dat de apen niet ongevoelig zouden zijn voor de schoonheden der muziek&#8221;</ref> 61.
-    </item><item><ref target="p065">&#8220;Er was nu een ijzeren pot, men kon dus een soort soep koken&#8221;</ref> 65.
-    </item><item><ref target="p069">&#8220;Het duurde niet lang of een gulzige snoek beet aan en werd aan boord gehaald&#8221;</ref> 69.
-    </item><item><ref target="p073">&#8220;Op de takken der boomen wemelde het van apen&#8221;</ref> 73.
-    </item><item><ref target="p077">&#8220;Eenige oogenblikken verkeerden de reizigers in grooten angst&#8221;</ref> 77.
-    </item><item><ref target="p085">&#8220;En staken hem hunne hand toe&#8221;</ref> 85.
-    <pb n="158"/></item><item><ref target="p097">&#8220;De buffel scheen niet van plan om heen te gaan&#8221;</ref> 97.
-    </item><item><ref target="p101">&#8220;Zij werden meegesleurd in de kolk&#8221;</ref> 101.
-    </item><item><ref target="p105">&#8220;Hij poogde tusschen het bladerengewelf door, een <corr sic="srukje">stukje</corr> van den hemel te ontdekken&#8221;</ref> 105.
-    </item><item><ref target="p109">&#8220;Er bleef niets anders over dan voort te loopen&#8221;</ref> 109.
-    </item><item><ref target="p113">&#8220;Stond hij uit te kijken, of hij het licht nog niet zag verschijnen&#8221;</ref> 113.
-    </item><item><ref target="p117">&#8220;Stonden in zekere regelmaat hutten van stroo&#8221;</ref> 117.
-    </item><item><ref target="p121">&#8220;Vooraf gegaan door Li-Mai die Llanga bij de hand hield&#8221;</ref> 121.
-    </item><item><ref target="p125">&#8220;Toen de beide schildwachten hem dreigend den weg versperden&#8221;</ref> 125.
-    </item><item><ref target="p129">&#8220;Schoten zij de vogels met kleine pijltjes&#8221;</ref> 129.
-    </item><item><ref target="p133">&#8220;Met bijlen gewapend, storten zij zich tusschen de troep&#8221;</ref> 133.
-    </item><item><ref target="p137">&#8220;Het viel dadelijk op, dat zij zich bizonder hadden opgetooid&#8221;</ref> 137.
-    </item><item><ref target="p141">&#8220;Ging achter het orgel staan en begon te draaien&#8221;</ref> 141.
-    </item><item><ref target="p145">&#8220;En schudde den koning tamelijk oneerbiedig heen en weer&#8221;</ref> 145.
-    </item><item><ref target="p149">&#8220;Twee schoten weerklonken&#8221;</ref> 149.
-    </item><item><ref target="p153">&#8220;En wederzijds wuifde men elkander tot afscheid toe&#8221;</ref> 153.</item></list></div1><divGen type="Colophon"/></back></text></TEI.2>
+<pb n="157"/></p></div1></body><back id="backmattter"><div1 id="toc" type="Contents"><head>Inhoud</head><list type="tocList"><item><ab type="tocDivNum">1.</ab> <ref target="ch1">Na een langen marsch</ref> <ab type="tocPageNum">1.</ab>
+    </item><item><ab type="tocDivNum">2.</ab> <ref target="ch2">De bewegende vuren</ref> <ab type="tocPageNum">8.</ab>
+    </item><item><ab type="tocDivNum">3.</ab> <ref target="ch3">Verstrooid</ref> <ab type="tocPageNum">19.</ab>
+    </item><item><ab type="tocDivNum">4.</ab> <ref target="ch4">Geen keuze</ref> <ab type="tocPageNum">28.</ab>
+    </item><item><ab type="tocDivNum">5.</ab> <ref target="ch5">De eerste dagen in het woud</ref> <ab type="tocPageNum">36.</ab>
+    </item><item><ab type="tocDivNum">6.</ab> <ref target="ch6">Altijd naar het Zuidwesten</ref> <ab type="tocPageNum">43.</ab>
+    </item><item><ab type="tocDivNum">7.</ab> <ref target="ch7">De ledige kooi</ref> <ab type="tocPageNum">50.</ab>
+    </item><item><ab type="tocDivNum">8.</ab> <ref target="ch8">Dokter Johausen</ref> <ab type="tocPageNum">59.</ab>
+    </item><item><ab type="tocDivNum">9.</ab> <ref target="ch9">Op de Johausen-rivier</ref> <ab type="tocPageNum">71.</ab>
+    </item><item><ab type="tocDivNum">10.</ab> <ref target="ch10">Ngora</ref> <ab type="tocPageNum">79.</ab>
+    </item><item><ab type="tocDivNum">11.</ab> <ref target="ch11">De reis van den 19den Maart</ref> <ab type="tocPageNum">84.</ab>
+    </item><item><ab type="tocDivNum">12.</ab> <ref target="ch12">Na de schipbreuk</ref> <ab type="tocPageNum">91.</ab>
+    </item><item><ab type="tocDivNum">13.</ab> <ref target="ch13">Een dorp in de lucht</ref> <ab type="tocPageNum">96.</ab>
+    </item><item><ab type="tocDivNum">14.</ab> <ref target="ch14">De wagdies</ref> <ab type="tocPageNum">108.</ab>
+    </item><item><ab type="tocDivNum">15.</ab> <ref target="ch15">Drie weken studie</ref> <ab type="tocPageNum">116.</ab>
+    </item><item><ab type="tocDivNum">16.</ab> <ref target="ch16">Zijne Majesteit Koning Mselo-Tala-Tala</ref> <ab type="tocPageNum">127.</ab>
+    </item><item><ab type="tocDivNum">17.</ab> <ref target="ch17">Koning Johausen</ref> <ab type="tocPageNum">140.</ab>
+    </item><item><ab type="tocDivNum">18.</ab> <ref target="ch18">Onverwachte ontknooping</ref> <ab type="tocPageNum">151.</ab></item></list><pb n="157"/></div1><div1 id="loi" type="Contents"><head>Lijst der Platen.</head><list type="tocList"><item><ref target="p000">&#8220;Max Huber en Llanga&#8221;</ref> <ab type="tocPageNum">(<hi>Titelplaat</hi>)</ab>
+    </item><item><ref target="p005">&#8220;Het drietal zette den tocht voort&#8221;</ref> <ab type="tocPageNum">5.</ab>
+    </item><item><ref target="p009">&#8220;De lichten schenen thans wel vijftig en honderd voet boven den beganen grond&#8221;</ref> <ab type="tocPageNum">9.</ab>
+    </item><item><ref target="p013">&#8220;Toen kon hij de anderen behulpzaam zijn om tegen den stam op te klimmen&#8221;</ref> <ab type="tocPageNum">13.</ab>
+    </item><item><ref target="p021">&#8220;Daar weerklonk een schot&#8221;</ref> <ab type="tocPageNum">21.</ab>
+    </item><item><ref target="p025">&#8220;Het was een Inyala, een soort antilope&#8221;</ref> <ab type="tocPageNum">25.</ab>
+    </item><item><ref target="p029">&#8220;Had John Cort geen oogen genoeg om de prachtige plantenwereld te bewonderen&#8221;</ref> <ab type="tocPageNum">29.</ab>
+    </item><item><ref target="p037">&#8220;Toen hij eensklaps een hand op zijn schouder voelde&#8221;</ref> <ab type="tocPageNum">37.</ab>
+    </item><item><ref target="p041">&#8220;Max Huber legde dadelijk zijn karabijn aan&#8221;</ref> <ab type="tocPageNum">41.</ab>
+    </item><item><ref target="p045">&#8220;En riep luidkeels: de Rio! de Rio!&#8221;</ref> <ab type="tocPageNum">45.</ab>
+    </item><item><ref target="p053">&#8220;Na een poos ontdekten zij het tweetal, aan den linkeroever&#8221;</ref> <ab type="tocPageNum">53.</ab>
+    </item><item><ref target="p057">&#8220;En in die tralies was een deurtje&#8221;</ref> <ab type="tocPageNum">57.</ab>
+    </item><item><ref target="p061">&#8220;Daar de dokter zich verbeeldde, dat de apen niet ongevoelig zouden zijn voor de schoonheden der muziek&#8221;</ref> <ab type="tocPageNum">61.</ab>
+    </item><item><ref target="p065">&#8220;Er was nu een ijzeren pot, men kon dus een soort soep koken&#8221;</ref> <ab type="tocPageNum">65.</ab>
+    </item><item><ref target="p069">&#8220;Het duurde niet lang of een gulzige snoek beet aan en werd aan boord gehaald&#8221;</ref> <ab type="tocPageNum">69.</ab>
+    </item><item><ref target="p073">&#8220;Op de takken der boomen wemelde het van apen&#8221;</ref> <ab type="tocPageNum">73.</ab>
+    </item><item><ref target="p077">&#8220;Eenige oogenblikken verkeerden de reizigers in grooten angst&#8221;</ref> <ab type="tocPageNum">77.</ab>
+    </item><item><ref target="p085">&#8220;En staken hem hunne hand toe&#8221;</ref> <ab type="tocPageNum">85.</ab>
+    <pb n="158"/></item><item><ref target="p097">&#8220;De buffel scheen niet van plan om heen te gaan&#8221;</ref> <ab type="tocPageNum">97.</ab>
+    </item><item><ref target="p101">&#8220;Zij werden meegesleurd in de kolk&#8221;</ref> <ab type="tocPageNum">101.</ab>
+    </item><item><ref target="p105">&#8220;Hij poogde tusschen het bladerengewelf door, een <corr sic="srukje">stukje</corr> van den hemel te ontdekken&#8221;</ref> <ab type="tocPageNum">105.</ab>
+    </item><item><ref target="p109">&#8220;Er bleef niets anders over dan voort te loopen&#8221;</ref> <ab type="tocPageNum">109.</ab>
+    </item><item><ref target="p113">&#8220;Stond hij uit te kijken, of hij het licht nog niet zag verschijnen&#8221;</ref> <ab type="tocPageNum">113.</ab>
+    </item><item><ref target="p117">&#8220;Stonden in zekere regelmaat hutten van stroo&#8221;</ref> <ab type="tocPageNum">117.</ab>
+    </item><item><ref target="p121">&#8220;Vooraf gegaan door Li-Mai die Llanga bij de hand hield&#8221;</ref> <ab type="tocPageNum">121.</ab>
+    </item><item><ref target="p125">&#8220;Toen de beide schildwachten hem dreigend den weg versperden&#8221;</ref> <ab type="tocPageNum">125.</ab>
+    </item><item><ref target="p129">&#8220;Schoten zij de vogels met kleine pijltjes&#8221;</ref> <ab type="tocPageNum">129.</ab>
+    </item><item><ref target="p133">&#8220;Met bijlen gewapend, storten zij zich tusschen de troep&#8221;</ref> <ab type="tocPageNum">133.</ab>
+    </item><item><ref target="p137">&#8220;Het viel dadelijk op, dat zij zich bizonder hadden opgetooid&#8221;</ref> <ab type="tocPageNum">137.</ab>
+    </item><item><ref target="p141">&#8220;Ging achter het orgel staan en begon te draaien&#8221;</ref> <ab type="tocPageNum">141.</ab>
+    </item><item><ref target="p145">&#8220;En schudde den koning tamelijk oneerbiedig heen en weer&#8221;</ref> <ab type="tocPageNum">145.</ab>
+    </item><item><ref target="p149">&#8220;Twee schoten weerklonken&#8221;</ref> <ab type="tocPageNum">149.</ab>
+    </item><item><ref target="p153">&#8220;En wederzijds wuifde men elkander tot afscheid toe&#8221;</ref> <ab type="tocPageNum">153.</ab></item></list></div1><divGen type="Colophon"/></back></text></TEI.2>
